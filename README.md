@@ -75,7 +75,7 @@
   <section id="contact">
     <h2>Contact Us</h2>
     <p>📍 Location: Kandanegedara, Sri Lanka</p>
-    <p>☎ Phone: 011-1234567</p>
+    <p>☎ Phone: 077-4548186</p>
     <p>✉ Email: info@kandanegedaracollege.lk</p>
   </section>
 
